@@ -1,0 +1,8 @@
+name: Demo App
+description: >
+  A Demo App which does almost nothing of any practical value.
+version: 0.0.1-rancher1
+category: Toy Apps
+maintainer: Morten Pietermsa <m.pietersma@cyops.nl>
+license: Apache2
+projectURL: https://github.com/Morph96/ranchercatalog
